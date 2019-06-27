@@ -6,6 +6,9 @@ Import the XetraETL.dbc file to your Databricks workspace.
 
 Create a cluster with Databricks Runtime 5.4 and start "RunAllNotebooks".
 
+More info on importing notebooks here:
+https://docs.databricks.com/user-guide/notebooks/notebook-manage.html
+
 
 ### Viewing the Notebooks
 You can view the output of the notebooks through a web browser by opening /html/index.html.
