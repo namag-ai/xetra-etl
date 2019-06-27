@@ -14,7 +14,7 @@ See XetraETL.pdf for a detailed description.
 
 You can view the output of the notebooks through a web browser here:
 
-http://xetra-etl.s3-website-us-west-1.amazonaws.com/#SummaryReport.html
+https://codywynn.github.io/xetra-etl/
 
 ### Running On Databricks
 Import the XetraETL.dbc file to your Databricks workspace.
