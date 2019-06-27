@@ -5,8 +5,6 @@ See XetraETL.pdf for a detailed description.
 
 ![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/Architecture.png)
 
-![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/XetraSchema.png)
-
 ### Notebooks
 - **FetchData:** extracts Xetra data from 2018-02-01 to 2018-02-28 and stores it in the Databricks File System
 - **CreateTables:** defines the schemas and creates Hive tables for the queries and reports
