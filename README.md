@@ -24,3 +24,6 @@ https://docs.databricks.com/user-guide/notebooks/notebook-manage.html
 
 ### Viewing the Notebooks
 You can view the output of the notebooks through a web browser by opening /html/index.html.
+
+### Data Schema
+![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/XetraSchema.png)
