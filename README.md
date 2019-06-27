@@ -1,6 +1,8 @@
 # xetra-etl
 ETL pipeline for analyzing public stock trading data from the Xetra Exchange using Scala, Spark, and Databricks.
 
+See XetraETL.pdf for a detailed description.
+
 ![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/Architecture.png)
 
 ![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/XetraSchema.png)
