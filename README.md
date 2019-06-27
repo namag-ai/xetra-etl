@@ -1,6 +1,10 @@
 # xetra-etl
 ETL pipeline for analyzing public stock trading data from the Xetra Exchange using Scala, Spark, and Databricks.
 
+![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/Architecture.png)
+
+![alt text](https://raw.githubusercontent.com/codywynn/xetra-etl/master/img/XetraSchema.png)
+
 ### Running On Databricks
 Import the XetraETL.dbc file to your Databricks workspace.
 
